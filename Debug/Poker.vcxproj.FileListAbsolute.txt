@@ -1,0 +1,2 @@
+C:\Users\student\source\repos\orlov\ООП\Poker\Debug\Poker.exe
+C:\Users\student\source\repos\orlov\ООП\Poker\Debug\Poker.pdb
